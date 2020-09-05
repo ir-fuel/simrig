@@ -204,11 +204,11 @@ Once this is done you can tighten:
 - the 4 bottom screws holding the motor, for each motor.
 - all the bolts holding the bars. Remember to clamp the small bars against your rig when tightening the M5x8 screws!
 
-<img src="img/IMG_0845.JPG" width="800">
+<img src="img/IMG_0845.jpg" width="800">
 
 ## Electronics
 
-<img src="https://simrig.se/documentation/sr1/_images/3d_ecugreen.jpg" width="800>
+<img src="https://simrig.se/documentation/sr1/_images/3d_ecugreen.jpg" width="800">
 
 I installed the electronics box under my seat using the following 2 screws. Make sure you orient the box correctly (power and USB port to the left hand side of the rig)
 
