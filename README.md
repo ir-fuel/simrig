@@ -31,6 +31,10 @@ In order to do the installation, besides the tools required for the normal insta
 
 <img src="img/toolcase.jpg" with="400">
 
+- some Allen keys
+
+<img src="img/hexkeys.jpg" with="400">
+
 
 ## Lifting the rig
 Putting the rig on the stands and lowering it requires help from a second person.
@@ -219,5 +223,20 @@ I installed the electronics box under my seat using the following 2 screws. Make
 <img src="img/IMG_0852.jpg" width="800">
 
 Follow the instructions on the SIMRIG website to connect all the wires.
+
+## Emergency stop
+
+Open the emergeny stop button by removing the 4 screws, and use the following screws (and compatible t nut) to fix the stop button on the rig. Just insert the 2 screws in the holes inside the casing. Beware that you'll need a long Allen key for this.
+
+<img src="img/IMG_0853.JPG" width="800">
+
+<img src="img/IMG_0854.JPG" width="800">
+
+<img src="img/IMG_0855.JPG" width="800">
+
+
+## Wiring
+
+There are a lot of long wires included in the system, and in order to keep things clean I like to tidy up the wiring so no wires are seen from the outside of the rig.
 
 
