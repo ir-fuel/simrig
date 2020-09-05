@@ -9,6 +9,7 @@ If, like me, you buy the SIMRIG SR1 to install on a rig that's already in use, i
 
 ## Required tools
 In order to do the installation, besides the tools required for the normal install you will need 4 axle stands that normally are used to support a car in the workshop.
+
 <img src="img/IMG_0801.JPG" width="500">
 
 Putting the rig on the stands and lowering it requires help from a second person.
