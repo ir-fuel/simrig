@@ -47,14 +47,19 @@ Here is how I solved both issues:
 
 ### Alignment pins
 
-There are two sides to the bracket. One goes on the big profiles of your rig, one on the small profiles of the SIMRIG SR1. You need to remove the alignment pins that touch the small profile. First you need to remove one at the top, and then on the same side you remove the bottom one. The easiest way of doing this is with 2 pliers.
+There are two sides to the bracket. One goes on the big profiles of your rig, one on the small profiles of the SIMRIG SR1. You need to remove the alignment pins that touch the small profile. First you need to remove one at the top, and then on the same side you remove the bottom one. The easiest way of doing this is with 2 pliers. If you don't you will not be able to bolt the small profile against the profile of your rig as you can see below
 
+<img src="img/IMG_0822.JPG" width="500">
+
+So take some big pliers, hold the bracket, and use the small pliers to break off the 2 guide pins (it does not require a lot of force).
+
+<img src="img/IMG_0816.JPG" width="500">
 
 
 ### Bracket holes too narrow
 
 <img src="img/IMG_0810.JPG" width="500">
 
-As you can see, the screw is stuck inside the bracket. It has no way to slide up and down.
+As you can see, the bolt is stuck inside the bracket. It has no way to slide up and down. We need to solve this so we can put the profile against our rig. This only needs to be done on one side, the side where we removed the guide pins. Just use a small file and open the hole. The material is quite soft and in less than 10 seconds per size the hole will be big enough so the bolt can move freely. Test with one of the M5x14 ones. They are easier to test with than the M5x8 that will need to be used when installing.
 
-
+<img src="img/IMG_0817.JPG" width="500">
