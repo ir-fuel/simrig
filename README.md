@@ -20,6 +20,7 @@ In order to do the installation, besides the tools required for the normal insta
 
 - a toolcase with sockets
 
+<img src="img/toolcase.jpg" with="800">
 
 
 ## Lifting the rig
