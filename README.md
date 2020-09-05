@@ -253,7 +253,7 @@ I cut some parts of the cable sleeves to wrap the front part of the wiring of th
 
 I routed the wires inside the bar of the frame, on the bottom.
 
-<img src="img/IMG_0868.JPG" width="800">
+<img src="img/IMG_0860.JPG" width="800">
 
 Then I routed the wires in the side of the frame, on the inside, to the the small bar at the and attached it there before returning to the electronics box. The wires coming from the back motor do a loop before being attached to the back bar and going to the electronics module. 
 
