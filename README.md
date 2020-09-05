@@ -3,6 +3,11 @@ How to install the SIMRIG SR1 without turning your rig upside down.
 
 If, like me, you buy the SIMRIG SR1 to install on a rig that's already in use, it's quite a lot of work to disassemble everything and turn the rig upside down. That's why I installed it right side up. Below you can find a guide on how to do this. I have done this on a Sim-Lab TR1, but it should be the same for any 8020 rig.
 
+Please first read through the original instruction guide as the below instructions will not contain all the details, especially concerning electronics.
+
+https://simrig.se/documentation/sr1/assembly.html
+
+
 ## Disclaimer
 
 **This way of installing the SIMRIG SR1 is a lot more dangerous than the procedure described in the user manual. If your rig is not correctly supported or you hit it hard while moving around underneath it might lead to serious injury! Proceed at your own risk and be very careful!**
@@ -184,7 +189,7 @@ First install the clamp on the rig, without tightening it down. Next slide the m
 
 Next attach the clamp to the motor
 
-<img src="https://simrig.se/documentation/sr1/_images/support_to_chassi.jpg" with="800">
+<img src="https://simrig.se/documentation/sr1/_images/support_to_chassi.jpg" width="800">
 
 If like me your seat is still installed you will need to special tools to access everything. If your seat is on a slider maybe you can slide it forwards, but be very careful as it usually requires a lot of force and you might pull your rig from the axle stands!
 
@@ -195,9 +200,24 @@ Note that the nuts used here are self-locking. There is absolutely no need to ti
 Repeat for the 3 other motors. The 2 at the front will be easier as the seat is not in the way.
 
 Once this is done you can tighten:
-- the big M8 screws to the rig
+- the big M8 screws that attach the clamps to the rig
 - the 4 bottom screws holding the motor, for each motor.
 - all the bolts holding the bars. Remember to clamp the small bars against your rig when tightening the M5x8 screws!
 
+<img src="img/IMG_0845.JPG" width="800">
+
+## Electronics
+
+<img src="https://simrig.se/documentation/sr1/_images/3d_ecugreen.jpg" width="800>
+
+I installed the electronics box under my seat using the following 2 screws. Make sure you orient the box correctly (power and USB port to the left hand side of the rig)
+
+<img src="img/IMG_0848.JPG" width="800">
+
+<img src="img/IMG_0851.jpg" width="800">
+
+<img src="img/IMG_0852.jpg" width="800">
+
+Follow the instructions on the SIMRIG website to connect all the wires.
 
 
