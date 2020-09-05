@@ -5,7 +5,7 @@ If, like me, you buy the SIMRIG SR1 to install on a rig that's already in use, i
 
 ## Disclaimer
 
-** This way of installing the SIMRIG SR1 is a lot more dangerous than the procedure described in the user manual. If your rig is not correctly supported or you hit it hard while moving around underneath it might lead to serious injury! Proceed at your own risk and be very careful! **
+**This way of installing the SIMRIG SR1 is a lot more dangerous than the procedure described in the user manual. If your rig is not correctly supported or you hit it hard while moving around underneath it might lead to serious injury! Proceed at your own risk and be very careful!**
 
 ## Required tools
 In order to do the installation, besides the tools required for the normal install you will need 4 axle stands that normally are used to support a car in the workshop.
