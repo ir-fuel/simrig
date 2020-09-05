@@ -12,11 +12,12 @@ In order to do the installation, besides the tools required for the normal insta
 
 <img src="img/IMG_0801.JPG" width="800">
 
-Putting the rig on the stands and lowering it requires help from a second person.
-
-An electric screwdriver will also save you some time.
+You'll also need a small file. An electric screwdriver will save you some time but is not required.
 
 ## Lifting the rig
+Putting the rig on the stands and lowering it requires help from a second person.
+
+
 Since my DD wheel is quite heavy (15kg), the steering wheel would be annoying be while installing the motion platform and it's only 3 bolts, I did remove the steering wheel.
 
 Next I put my rig on the axle stands by first lifting the rear, installing 2 stands at the back, and then lifting the front and installing 2 stands in the middle somewhere. You need 2 people to do this. Attention! I realised later on that I shouldn't have put the back stands so far back. I moved them further forwards as they are interfering with the installation of rear bar. You will see later that I moved them. I suggest to scroll down and see where I put them.
