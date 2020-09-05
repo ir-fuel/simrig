@@ -270,6 +270,8 @@ The power and usb wire are routed in the side bar of the rig. Here you can see w
 <img src="img/IMG_0866.JPG" width="800">
 
 
+## The end
 
+That's it. Get someone to help you move the axle stands from the rig (first the front ones, then the rear ones) and move your rig where it's supposed to be, plug in all the cables and enjoy!
 
 
