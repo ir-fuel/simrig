@@ -14,9 +14,13 @@ In order to do the installation, besides the tools required for the normal insta
 
 <img src="img/IMG_0801.JPG" width="800">
 
-- a small file. 
+- a needle file. 
+
+<img src="img/needleFile.jpg" width="800">
 
 - an electric screwdriver
+
+<img src="img/screwdriver.jpg" width="800">
 
 - a toolcase with sockets
 
