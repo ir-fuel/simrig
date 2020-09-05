@@ -152,7 +152,7 @@ Next install the 4 screws from the bottom and screw them in the t slot nuts. Att
 
 <img src="img/IMG_0831.JPG" width="800">
 
-Now install them on the rig. We'll start at the front. Remember that the frontmost bar was tightened so it can't move forward backward, only left-right. Push the screws all the way up from the bottom and slide the t nuts in the frontmost bar. This will take a bit of fiddling but isn't very hard to do. 
+Now install them on the rig. We'll start at the front. Remember that the frontmost bar was tightened so it can't move. Push the screws all the way up from the bottom and slide the t nuts in the frontmost bar. This will take a bit of fiddling but isn't very hard to do. 
 
 <img src="img/IMG_0832.JPG" width="800">
 
