@@ -162,12 +162,42 @@ Attention! If you find it hard to move the bar it could be stuck on the motor ca
 
 <img src="img/IMG_0842.JPG" width="800">
 
+<img src="img/IMG_0843.JPG" width="800">
+
 Since the distance is already ok between the bars you simply install the nuts in the fixed bar and pull the other one over the nuts once it's done.
 
 <img src="img/IMG_0839.JPG" width="800">
 
 Done!
 
+## Installing the supports between the motor and the rig
+
+The t nut and bolt that is used to bolt the clamp on the rig is this one
+
+<img src="img/IMG_0840.JPG" width="800">
+
+The screws and nuts you need to attach the clamp to the motor are these
+
+<img src="img/IMG_0841.JPG" width="800">
+
+First install the clamp on the rig, without tightening it down. Next slide the motor towards the rig and align everything. Remember what has been stated above concerning the motor cable! Do not force it, it should slide smoothly.
+
+Next attach the clamp to the motor
+
+<img src="https://simrig.se/documentation/sr1/_images/support_to_chassi.jpg" with="800">
+
+If like me your seat is still installed you will need to special tools to access everything. If your seat is on a slider maybe you can slide it forwards, but be very careful as it usually requires a lot of force and you might pull your rig from the axle stands!
+
+<img src="img/IMG_0844.JPG" width="800">
+
+Note that the nuts used here are self-locking. There is absolutely no need to tighten them down with a lot of force. As soon as everything is tightened together it's ok. It will not loosen due to vibrations thanks to the plastic inside the locking nut, so be gentle.
+
+Repeat for the 3 other motors. The 2 at the front will be easier as the seat is not in the way.
+
+Once this is done you can tighten:
+- the big M8 screws to the rig
+- the 4 bottom screws holding the motor, for each motor.
+- all the bolts holding the bars. Remember to clamp the small bars against your rig when tightening the M5x8 screws!
 
 
 
