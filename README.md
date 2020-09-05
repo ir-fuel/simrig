@@ -154,10 +154,13 @@ Now do the same for the motor at the back.
 
 <img src="img/IMG_0836.JPG" width="800">
 
-
-Now we need to do the opposite side. To make this easier slide the small bar further over the motor that is already installed.
+We need to do the opposite side. To make this easier slide the small bar further over the motor that is already installed. 
 
 <img src="img/IMG_0837.JPG" width="800">
+
+Attention! If you find it hard to move the bar it could be stuck on the motor cable. Move it out of the way and don't damage it by pushing too hard with the bar!
+
+<img src="img/IMG_0842.JPG" width="800">
 
 Since the distance is already ok between the bars you simply install the nuts in the fixed bar and pull the other one over the nuts once it's done.
 
