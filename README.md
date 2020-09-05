@@ -35,6 +35,14 @@ In order to do the installation, besides the tools required for the normal insta
 
 <img src="img/hexkeys.jpg" with="400">
 
+- cable sleeves
+
+<img src="img/IMG_0868.JPG" width="400">
+
+- tie wraps
+
+
+
 
 ## Lifting the rig
 Putting the rig on the stands and lowering it requires help from a second person.
@@ -238,5 +246,10 @@ Open the emergeny stop button by removing the 4 screws, and use the following sc
 ## Wiring
 
 There are a lot of long wires included in the system, and in order to keep things clean I like to tidy up the wiring so no wires are seen from the outside of the rig.
+
+I got some cable sleeves
+
+
+
 
 
