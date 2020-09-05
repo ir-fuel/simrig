@@ -32,6 +32,29 @@ As previously stated, I moved the rear stands forwards in order to install the r
 
 <img src="img/IMG_0826.JPG" width="500">
 
+## Installing the bars
 
+In the instruction manual it states: 
+
+`Each 20x20 aluminum bar is attached to the rig with two 20mm angle brackets. Brake off one alignment pin on each bracket (use a scewdriver.) `
+
+After some trial and error I found 2 issues with the brackets:
+- Breaking off one alignment pin is not enough. You need to remove two.
+
+- The holes in the brackets are too small for the screws. With a bit of fiddling you can get the screws to thread through, but since we want to align everything exactly against the rig we have a problem here as the screw cannot slide in the hole.
+
+Here is how I solved both issues:
+
+### Alignment pins
+
+There are two sides to the bracket. One goes on the big profiles of your rig, one on the small profiles of the SIMRIG SR1. You need to remove the alignment pins that touch the small profile. First you need to remove one at the top, and then on the same side you remove the bottom one. The easiest way of doing this is with 2 pliers.
+
+
+
+### Bracket holes too narrow
+
+<img src="img/IMG_0810.JPG" width="500">
+
+As you can see, the screw is stuck inside the bracket. It has no way to slide up and down.
 
 
