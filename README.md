@@ -81,9 +81,7 @@ As explained in the original documentation, install the 4 bar without tightening
 
 <img src="https://simrig.se/documentation/sr1/_images/SRD_base_clean_under.png" with="500">
 
-What I did was I did tighten the rearmost bar (the 2 bolts that go into your rig, the short ones in the small profile aren't tightened so you can slide the profile left-right) and I also tightened the frontmost one, so the 780mm distance was assured (again only on the rig, not the small profile, that should be able to slide left-right).
-
-The 2 middle bars were installed but not tightened.
+What I did was I did tighten the rearmost bar completely and I also tightened the frontmost one, so the 780mm distance was assured. The 2 middle bars were installed but not tightened. Read below on how to tighten correctly.
 
 To make tightening everything after installation more easy, I would suggest putting the brackets on the outside of the bars, so you have more room for a screwdriver or other tools. This of course is not possible for the bar at the rear.
 
@@ -94,6 +92,16 @@ The arrows show where the brackets are
 <img src="img/IMG_0826.JPG" width="500">
 
 <img src="img/IMG_0827.JPG" width="500">
+
+Measure how much the bars stick out on each side so you can move them around to get them centered left-right. For the 2 middle bars this is not important but for the frontmost and rearmost it is as they will be tightened down.
+
+To tighten the bars there is something very important that you need to do! Tightening the M5x14's into the frame of the rig is nothing special, but once this is done and you want to tighten the small bars to the bracket, you must, with your hand, clamp the bar firmly against the big bar of the rig (that's why the bolt needs to be able to move freely up and down and the guide pins needed removal). This to assure that your rig will rest on the small bars, and not rest on the bolts that were used to tighten it down.
+
+<img src="img/IMG_0823.JPG" width="500">
+
+<img src="img/IMG_0824.JPG" width="500">
+
+There should be zero empty space between your rig and the small bar.
 
 ## Motor installation
 
@@ -108,6 +116,8 @@ First screw the pads under the motor.
 <img src="https://simrig.se/documentation/sr1/_images/pad.jpg" width="500">
 
 Next install the 4 screws from the bottom and screw them in the t slot nuts. Attention! Only screw them a very small distance. Just enough so they don't fall out when you wiggle them around. Do not tighten them all the way down!
+
+<img src="img/IMG_0830.JPG" width="500">
 
 <img src="img/IMG_0831.JPG" width="500">
 
@@ -124,6 +134,7 @@ This is how it looks:
 <img src="img/IMG_0834.JPG" width="500">
 
 
+Tighten the screws a little bit more so they don't fall out but the motor should still be able to move around freely.
 
 
 
