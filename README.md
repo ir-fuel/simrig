@@ -101,6 +101,28 @@ To install the motors on the bars you will need these:
 
 <img src="img/IMG_0829.JPG" width="500">
 
+The hard part is that you need to slide in the nuts on the bottom and then screw the motor screws also from the bottom. Extremely difficult if you don't turn the rig upside down. Fortunately there is an easier way of doing this. 
+
+First screw the pads under the motor.
+
+<img src="https://simrig.se/documentation/sr1/_images/pad.jpg" width="500">
+
+Next install the 4 screws from the bottom and screw them in the t slot nuts. Attention! Only screw them a very small distance. Just enough so they don't fall out when you wiggle them around. Do not tighten them all the way down!
+
+<img src="img/IMG_0831.JPG" width="500">
+
+Now install them on the rig. We'll start at the front. Remember that the frontmost bar was tightened so it can't move forward backward, only left-right. Push the screws all the way up from the bottom and slide the t nuts in the frontmost bar. This will take a bit of fiddling but isn't very hard to do. 
+
+<img src="img/IMG_0832.JPG" width="500">
+
+In order to get the 2 t nuts at the back of the motor in the back bar, we will do it the opposite way. Remember that the 2nd bar is loose. First slide it all the way in, towards the side of the rig opposite from you. (as you are sitting in front of the bar, it means pushing it away from you). Next align the bar with the t nuts by moving it left-right (or front-back if you view it relative to your rig) and pull the bar back over those t nuts. 
+
+This is how it looks:
+
+<img src="img/IMG_0833.JPG" width="500">
+
+<img src="img/IMG_0834.JPG" width="500">
+
 
 
 
