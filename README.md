@@ -39,9 +39,9 @@ In order to do the installation, besides the tools required for the normal insta
 
 <img src="img/IMG_0868.JPG" width="400">
 
-- tie wraps
+- 250mm tie wraps
 
-
+<img src="img/tiewraps.jpg" width="400">
 
 
 ## Lifting the rig
@@ -247,7 +247,27 @@ Open the emergeny stop button by removing the 4 screws, and use the following sc
 
 There are a lot of long wires included in the system, and in order to keep things clean I like to tidy up the wiring so no wires are seen from the outside of the rig.
 
-I got some cable sleeves
+I cut some parts of the cable sleeves to wrap the front part of the wiring of the front motors.
+
+<img src="img/IMG_0867.JPG" width="800">
+
+I routed the wires inside the bar of the frame, on the bottom.
+
+<img src="img/IMG_0867.JPG" width="800">
+
+Then I routed the wires in the side of the frame, on the inside, to the the small bar at the and attached it there before returning to the electronics box. The wires coming from the back motor do a loop before being attached to the back bar and going to the electronics module. 
+
+<img src="img/IMG_0861.JPG" width="800">
+
+<img src="img/IMG_0862.JPG" width="800">
+
+<img src="img/IMG_0863.JPG" width="800">
+
+Make sure there is no tension anywhere in the system. As long as everything stays in place it's ok, no need to make sharp corners with the wires or have strain on the plugs.
+
+The power and usb wire are routed in the side bar of the rig. Here you can see where they are supposed to go. I didn't finish inserting them there all the way as I first wanted to test the system before cleaning up all the wiring.
+
+<img src="img/IMG_0866.JPG" width="800">
 
 
 
