@@ -87,6 +87,19 @@ The 2 middle bars were installed but not tightened.
 
 To make tightening everything after installation more easy, I would suggest putting the brackets on the outside of the bars, so you have more room for a screwdriver or other tools. This of course is not possible for the bar at the rear.
 
+The arrows show where the brackets are
+
+<img src="img/IMG_0825.JPG" width="500">
+
+<img src="img/IMG_0826.JPG" width="500">
+
+<img src="img/IMG_0827.JPG" width="500">
+
+## Motor installation
+
+To install the motors on the bars you will need these:
+
+<img src="img/IMG_0829.JPG" width="500">
 
 
 
