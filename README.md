@@ -14,6 +14,8 @@ In order to do the installation, besides the tools required for the normal insta
 
 Putting the rig on the stands and lowering it requires help from a second person.
 
+An electric screwdriver will also save you some time.
+
 ## Lifting the rig
 Since my DD wheel is quite heavy (15kg), the steering wheel would be annoying be while installing the motion platform and it's only 3 bolts, I did remove the steering wheel.
 
@@ -63,3 +65,30 @@ So take some big pliers, hold the bracket, and use the small pliers to break off
 As you can see, the bolt is stuck inside the bracket. It has no way to slide up and down. We need to solve this so we can put the profile against our rig. This only needs to be done on one side, the side where we removed the guide pins. Just use a small file and open the hole. The material is quite soft and in less than 10 seconds per size the hole will be big enough so the bolt can move freely. Test with one of the M5x14 ones. They are easier to test with than the M5x8 that will need to be used when installing.
 
 <img src="img/IMG_0817.JPG" width="500">
+
+
+### Preparing the bars
+
+Install the brackets on the 4 profiles. Don't tighten them, just make sure they can't fall out. Use the M5x8. Using an electric screwdriver to thread the M5x14 through the other part of the bracket (or use your newly acquired filing skills if you prefer to). Doing this by hand is also possible but takes more time. With the electric screwdriver make sure to go all the way in and then keep on turning for few seconds so the bolt can spin freely inside the bracket. (You can move the electric screwdriver to the side now, it's no longer needed after this).
+
+<img src="img/IMG_0814.JPG" width="500">
+
+<img src="img/IMG_0815.JPG" width="500">
+
+### Installing the bars on the rig
+
+As explained in the original documentation, install the 4 bar without tightening them on the rig. The most important thing to know is that the outer distance between the first and the last bar should be 780mm, and that the rear bar should be aligned with the rear of your rig.
+
+<img src="https://simrig.se/documentation/sr1/_images/SRD_base_clean_under.png" with="500">
+
+What I did was I did tighten the rearmost bar (the 2 bolts that go into your rig, the short ones in the small profile aren't tightened so you can slide the profile left-right) and I also tightened the frontmost one, so the 780mm distance was assured (again only on the rig, not the small profile, that should be able to slide left-right).
+
+The 2 middle bars were installed but not tightened.
+
+To make tightening everything after installation more easy, I would suggest putting the brackets on the outside of the bars, so you have more room for a screwdriver or other tools. This of course is not possible for the bar at the rear.
+
+
+
+
+
+
